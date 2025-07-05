@@ -2,6 +2,8 @@
 
 This project is a simple implementation of the **Monte Carlo Simulation** method using Python. Its primary purpose is to demonstrate how Monte Carlo simulations can be used to estimate expected values from random distributions or stochastic processes.
 
+Use Cases: General-purpose simulation, financial modeling, risk analysis.
+
 ## 🚀 Live Web App (Streamlit)
 
 A live version of this project is available as a web app powered by **Streamlit**. Try it out here:
